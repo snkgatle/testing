@@ -1,6 +1,6 @@
 {
   "name": "nbcoder-login-page",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "description": "Universal login page",
   "main": "login-page.js",
   "scripts": {

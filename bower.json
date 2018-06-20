@@ -3,7 +3,7 @@
   "authors": [
     "nbcoder"
   ],
-"version": "1.0.0",
+"version": "v1.0.0",
   "description": "A Material Design stepper (Polymer)",
   "main": "login-page.js",
   "keywords": [
