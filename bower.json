@@ -1,0 +1,27 @@
+{
+  "name": "nbcoder-login-page",
+  "authors": [
+    "nbcoder"
+  ],
+  "description": "A Material Design stepper (Polymer)",
+  "main": "login-page.js",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "paper",
+    "material design",
+    "stepper",
+    "mobile"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/snkgatle/testing",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+  
+  }
+}
