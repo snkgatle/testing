@@ -1,0 +1,12 @@
+{
+  "name": "nbcoder-login-page",
+  "version": "1.0.0",
+  "description": "Universal login page",
+  "main": "login-page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stephans kgatle",
+  "license": "ISC",
+  "private": false
+}
